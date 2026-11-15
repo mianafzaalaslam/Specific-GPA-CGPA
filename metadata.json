@@ -1,0 +1,6 @@
+{
+  "name": "Specific GPA/CGPA Calculator",
+  "description": "University GPA and CGPA calculator following Clause 14 grading scale (0-4.00), ceiling mark rounding, and weighted semester calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
